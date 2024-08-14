@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:greeting_app/live_test_mod_10.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const TextStylishPage());
 }
 
 class MyApp extends StatelessWidget {
